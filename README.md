@@ -1,0 +1,1 @@
+Durante la realización del proyecto de desarrollo de un contador óptico de partículas en la atmósfera para aplicaciones en la calidad del aire, se escribió código para Arduino y Python para su posterior calibración con una estación de medida oficial.
